@@ -1,1 +1,1 @@
-Homework 7
+Building an ERD to navigate table joins to query in PostgreSQL
